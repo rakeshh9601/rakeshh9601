@@ -22,7 +22,7 @@ I am a passionate Developer focused on **Workplace Automation** and **Full Stack
 ---
 
 ### 📬 Connect with me:
-- [Portfolio](https://rakeshh9601.github.io/) 🌐
+- [Portfolio](https://rakeshh9601.github.io/my-portfolio/) 🌐
 - [LinkedIn](https://www.linkedin.com/in/rakeshh9601/) 💼
 - [Email](mailto:rakeshhalder9601@gmail.com) 📧
 
